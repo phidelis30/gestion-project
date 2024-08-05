@@ -34,6 +34,6 @@
 /backend/dist
 /backend/dist-ssr
 /backend/coverage
-/backend/.env
+*.env
 
 
